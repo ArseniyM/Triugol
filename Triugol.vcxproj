@@ -141,7 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Point.cpp" />
     <ClCompile Include="Triangle.cpp" />
-    <ClCompile Include="Triugol.cpp" />
+    <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Point.h" />
